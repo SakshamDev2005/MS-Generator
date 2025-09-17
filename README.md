@@ -13,3 +13,6 @@ The app uses **Google's Generative AI (Gemini)** via `langchain` to create struc
 - Download generated schema as a `.json` file
 - AI-powered using **Google Generative AI (Gemini 2.0)**
 - Built with **Streamlit** for a simple web interface
+
+# Try the site yourself 
+**[Markup Schema Generator](https://ms-gen.onrender.com)**
